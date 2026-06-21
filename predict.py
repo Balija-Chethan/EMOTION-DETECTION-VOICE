@@ -43,7 +43,6 @@ def extract_features(file_path):
         sr=sample_rate,
         n_mfcc=40
     )
-
     return np.mean(mfccs.T, axis=0)
 
 
