@@ -1,7 +1,6 @@
 import os
 
 dataset_path = r"D:\B-Tech\S2-Internship\emotion-detection-voice\dataset"
-
 print("Folders:")
 print(os.listdir(dataset_path)[:10])
 
