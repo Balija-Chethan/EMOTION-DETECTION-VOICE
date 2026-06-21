@@ -7,7 +7,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 
-
 DATASET_PATH = r"D:\B-Tech\S2-Internship\emotion-detection-voice\dataset"
 
 
